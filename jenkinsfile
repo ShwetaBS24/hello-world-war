@@ -1,1 +1,17 @@
+@Library(shared_library)
+{
+agent any
+stages {
+stage('Build') {
+steps {
+stages {
 
+}
+}
+stage('Publish') {
+steps {
+
+}
+}
+}
+}
